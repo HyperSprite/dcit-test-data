@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"dcit-test.optionsdbs"},{"v":1,"unique":true,"key":{"optListName":1},"name":"optListName_1","ns":"dcit-test.optionsdbs","sparse":true,"background":true},{"v":1,"unique":true,"key":{"optListKey":1},"name":"optListKey_1","ns":"dcit-test.optionsdbs","sparse":true,"background":true}]}

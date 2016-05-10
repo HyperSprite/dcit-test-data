@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"dcit-test.racks"},{"v":1,"unique":true,"key":{"rackUnique":1},"name":"rackUnique_1","ns":"dcit-test.racks","background":true},{"v":1,"unique":true,"key":{"powers.rackPowUnique":1},"name":"powers.rackPowUnique_1","ns":"dcit-test.racks","sparse":true,"background":true}]}

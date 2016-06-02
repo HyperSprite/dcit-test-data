@@ -3,6 +3,8 @@
 ###DCIT Test data
 This is just a repo of test data. It can be used to populate [DCIT](https://github.com/HyperSprite/dcit) with enough data to make it interesting.
 
+A running example of this data can be found here: [dcit.hypersprite.com](http://dcit.hypersprite.com)
+
 ```js
 mongorestore -h localhost -d dcit-test dump/dcit-test
 ```
